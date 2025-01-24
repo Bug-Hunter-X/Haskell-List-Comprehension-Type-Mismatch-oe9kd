@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell list comprehensions: type mismatches.  The `bug.hs` file contains code that produces a type error due to an incorrect expression within the list comprehension. The solution, in `bugSolution.hs`, addresses the type issue and provides a working version.
